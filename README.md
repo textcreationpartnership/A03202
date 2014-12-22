@@ -35,9 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The foure prentises of London VVith the conquest of Ierusalem. As it hath bene diuerse times acted, 
+
+1. To the honest and hie-spirited Prentises The Readers.
+
+1. Drammatis Personae.
+
+1. The Prologue.
+
 #####Body#####
-The foure prentises of London VVith the conquest of Ierusalem. As it hath bene diuerse times acted, 
+
+1. The foure Prentises OF LONDON.
+
 **Types of content**
 
   * There are 2307 **verse** lines!
